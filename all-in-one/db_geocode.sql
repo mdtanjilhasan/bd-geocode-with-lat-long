@@ -115,7 +115,7 @@ INSERT INTO `districts` (`id`, `division_id`, `name`, `bn_name`, `lat`, `lng`, `
 (42, 2, 'Chandpur', 'চাঁদপুর', 23.23325850, 90.67129120, 'www.chandpur.gov.bd'),
 (43, 2, 'Chattogram', 'চট্টগ্রাম', 22.33510900, 91.83407300, 'www.chittagong.gov.bd'),
 (44, 2, 'Cumilla', 'কুমিল্লা', 23.46827470, 91.17881350, 'www.comilla.gov.bd'),
-(45, 2, 'Cox\'s Bazar', 'কক্স বাজার', 21.42722800, 92.00580700, 'www.coxsbazar.gov.bd'),
+(45, 2, 'Cox''s Bazar', 'কক্স বাজার', 21.42722800, 92.00580700, 'www.coxsbazar.gov.bd'),
 (46, 2, 'Feni', 'ফেনী', 23.02323100, 91.38408440, 'www.feni.gov.bd'),
 (47, 2, 'Khagrachari', 'খাগড়াছড়ি', 23.11928500, 91.98466300, 'www.khagrachhari.gov.bd'),
 (48, 2, 'Lakshmipur', 'লক্ষ্মীপুর', 22.94247700, 90.84118400, 'www.lakshmipur.gov.bd'),
